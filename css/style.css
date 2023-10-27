@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Dancing+Script:wght@500&family=Playpen+Sans:wght@100&display=swap');
+
+body{
+    background-color: rgb(250, 228, 220);
+}
+
+.pealkiri{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: brown;
+}
+
+.pilt{
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding-bottom: 1rem;
+    border-radius: 5%;
+}
+
+.koostisosad{
+    margin: auto;
+}
+
+.koostisosadetabel{
+    border: 3px solid grey;
+    margin: 0 auto;
+}
+
+.alapealkiri{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: brown;
+}
+
+.valmistamine{
+    border: 3px solid grey;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.link{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: brown;
+}
+
+.footer{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
