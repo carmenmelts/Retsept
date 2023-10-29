@@ -8,15 +8,6 @@ body{
     font-family: 'Dancing Script', cursive;
     text-align: center;
     color: brown;
-    position: relative;
-    animation: pealkiri;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes pealkiri{
-    0% {top: -250px;}
-    100% {top: 0px;}
 }
 
 .pilt{
@@ -25,15 +16,6 @@ body{
     margin: auto;
     padding-bottom: 1rem;
     border-radius: 5%;
-    position: relative;
-    animation: pilt;
-    animation-duration: 4s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes pilt{
-    0% {opacity: 0;}
-    100% {opacity: 1;}
 }
 
 .koostisosad{
@@ -61,16 +43,6 @@ body{
     font-family: 'Dancing Script', cursive;
     text-align: center;
     color: brown;
-    position: relative;
-    animation: link;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
-}
-
-@keyframes link{
-    0% {opacity: 0;}
-    100% {opacity: 1;}
 }
 
 .footer{
