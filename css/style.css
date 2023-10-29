@@ -25,6 +25,7 @@ body{
     margin: auto;
     padding-bottom: 1rem;
     border-radius: 5%;
+    position: relative;
     animation: pilt;
     animation-duration: 4s;
     animation-fill-mode: forwards;
@@ -60,6 +61,7 @@ body{
     font-family: 'Dancing Script', cursive;
     text-align: center;
     color: brown;
+    position: relative;
     animation: link;
     animation-duration: 3s;
     animation-fill-mode: forwards;
